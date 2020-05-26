@@ -1,0 +1,32 @@
+# Balloon Shooter (All Platforms)
+A Balloon shooter game supported for all latforms.
+The Game Can be found on <a href = "https://play.google.com/store/apps/details?id=com.thestraightuptech.balloonshooter&hl=en_IN"> PlayStore</a>
+
+### Contributors
+
+[Tushar Sehgal](/https://github.com/straightuptech/)  is maintaining this repository.
+
+
+### Screenshot
+<br>
+Some Screenshots of the Game
+<br
+<img src="https://lh3.googleusercontent.com/ne0_r4J1PEVY_DZEzn__PQ_7fwcWHorK88vO_oKIlVTqva4mnu9vcVD31XmgqGoOg4E=w1280-h562-rw" alt="Screenshot"/>
+<img src="https://lh3.googleusercontent.com/XVeaR9gvp1v2zuQgsCdt28nMVNluBz7M-D3tG_3ymwqJnsf24Sx5oBpM-AsaEN8swA=w1280-h562-rw" alt="Screenshot"/>
+<img src="https://lh3.googleusercontent.com/5WYXfK2BaVwTh4BfLvVyaUwjq_vElQ0-Ng4Qi_nHitZCZfZyANKKslN-0ee_THQs44M=w1280-h562-rw" alt="Screenshot"/>
+
+## Contribution
+Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into `master`! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
+
+You can find the same information in the [contribution guide.](https://github.com/straight-up-technologies/Bow-Shooter-Game/blob/master/CONTRIBUTION.MD)
+
+
+## Donations
+I am a startup and made this game to conribute to the field, and it's hosted on GitHub (which means I don't have any hosting costs), 
+but if you enjoyed the game and feel like buying me coffee, you can donate at my BTC address: 
+<br>
+3A8x9RkcnYgAb6HnWhPZix6K8HKgRP98em
+<br>
+Or My PayPal wallet @ straightuptech19@gmail.com
+<br>
+Thank you very much!
