@@ -3,6 +3,12 @@ A Balloon shooter game supported for all latforms.
 The Game Can be found on <a href = "https://play.google.com/store/apps/details?id=com.thestraightuptech.balloonshooter&hl=en_IN"> PlayStore</a>
 <br>
 Wanna play for fun [play it now!](https://straightuptech.github.io/Balloon%20Shooter/)
+
+## Show some :heart: and star the repo to support the project
+
+[![GitHub stars](https://img.shields.io/github/stars/straight-up-technologies/Bow-Shooter-Game.svg?style=social&label=Star)](https://github.com/straight-up-technologies/Bow-Shooter-Game) [![GitHub forks](https://img.shields.io/github/forks/straight-up-technologies/Bow-Shooter-Game.svg?style=social&label=Fork)](https://github.com/straight-up-technologies/Bow-Shooter-Game/fork) [![GitHub watchers](https://img.shields.io/github/watchers/straight-up-technologies/Bow-Shooter-Game.svg?style=social&label=Watch)](https://github.com/straight-up-technologies/Bow-Shooter-Game) [![GitHub followers](https://img.shields.io/github/followers/straight-up-technologies.svg?style=social&label=Follow)](https://github.com/straight-up-technologies/Bow-Shooter-Game)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/Straightuptech7.svg?style=social)](https://twitter.com/Straightuptech7)
+
 ### Contributors
 
 [Tushar Sehgal](https://github.com/straightuptech/)  is maintaining this repository.
