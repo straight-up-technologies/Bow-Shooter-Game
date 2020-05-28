@@ -11,7 +11,7 @@ Wanna play for fun [play it now!](https://straightuptech.github.io/Balloon%20Sho
 
 ### Contributors
 
-[Tushar Sehgal](https://github.com/straightuptech/)  is maintaining this repository.
+[Straightuptech(https://github.com/straightuptech/)  is maintaining this repository.
 
 
 ### Screenshot
