@@ -1,5 +1,5 @@
 # Balloon Shooter (All Platforms)
-A Balloon shooter game supported for all latforms.
+A Balloon shooter game supported for all platforms.
 The Game Can be found on <a href = "https://play.google.com/store/apps/details?id=com.thestraightuptech.balloonshooter&hl=en_IN"> PlayStore</a>
 <br>
 Wanna play for fun [play it now!](https://straightuptech.github.io/Balloon%20Shooter/)
