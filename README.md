@@ -9,6 +9,10 @@ Wanna play for fun [play it now!](https://straightuptech.github.io/Balloon%20Sho
 [![GitHub stars](https://img.shields.io/github/stars/straight-up-technologies/Bow-Shooter-Game.svg?style=social&label=Star)](https://github.com/straight-up-technologies/Bow-Shooter-Game) [![GitHub forks](https://img.shields.io/github/forks/straight-up-technologies/Bow-Shooter-Game.svg?style=social&label=Fork)](https://github.com/straight-up-technologies/Bow-Shooter-Game/fork) [![GitHub watchers](https://img.shields.io/github/watchers/straight-up-technologies/Bow-Shooter-Game.svg?style=social&label=Watch)](https://github.com/straight-up-technologies/Bow-Shooter-Game) [![GitHub followers](https://img.shields.io/github/followers/straight-up-technologies.svg?style=social&label=Follow)](https://github.com/straight-up-technologies/Bow-Shooter-Game)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/Straightuptech7.svg?style=social)](https://twitter.com/Straightuptech7)
 
+### Show us support on our Patreon and get exclusive access
+[Please show Support access our patreon here](https://www.patreon.com/thestraighuptech)
+
+
 ### Contributors
 
 [Straightuptech](https://github.com/straightuptech/)  is maintaining this repository.
